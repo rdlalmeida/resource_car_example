@@ -1,0 +1,12 @@
+# solidity
+./solidity_code/ignition
+./solidity_code/node_modules
+
+# move
+./move_code/car_factory/build
+
+# cadence
+./cadence_code/*.pkey
+./cadence_code/imports
+./cadence_code/.env
+./cadence_code/flowdb
